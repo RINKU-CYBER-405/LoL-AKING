@@ -1,1 +1,1 @@
-import Trick
+import TRICK
